@@ -2,12 +2,12 @@
 FileMaker Sample Code Files
 
 ## Licence
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/atsukosekiguchi/FileMakerSample/blob/add-license-1/LICENSE)
 ## Author
 Guppy Web Service [atsukosekiguchi](https://github.com/atsukosekiguchi)
 
 ## Description
-FileMaker Sample Files made by FileMaker Pro Advanced(ver.17).  
+FileMaker Sample Files made by FileMaker Pro Advanced(ver.13 or later).  
 These files work with FileMaker ver. 12 or later.
 
 ## Requirement
