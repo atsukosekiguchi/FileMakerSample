@@ -2,7 +2,7 @@
 FileMaker Sample Code Files
 
 ## Licence
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/atsukosekiguchi/tool/blob/master/LICENCE)
 ## Author
 Guppy Web Service [atsukosekiguchi](https://github.com/atsukosekiguchi)
 
