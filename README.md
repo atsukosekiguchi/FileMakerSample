@@ -7,7 +7,7 @@ FileMaker Sample Code Files
 Guppy Web Service [atsukosekiguchi](https://github.com/atsukosekiguchi)
 
 ## Description
-FileMaker Sample Files made by FileMaker Pro Advanced(ver.17).  
+FileMaker Sample Files made by FileMaker Pro Advanced(ver.13 or later).  
 These files work with FileMaker ver. 12 or later.
 
 ## Requirement
