@@ -14,10 +14,17 @@ These files work with FileMaker ver. 12 or later.
 FileMaker Pro 12 or later
 
 ## Files
-### addLine.fmp12
+### Sample_addLine.fmp12
 Add a line(record) like a spreadsheet.  
 This file has been tested with ver13 and ver.17.  
   
 行追加をスプレッドシートのように行の間に追加します。  
 FileMaker ver.13とver.17でテスト済みです。  
 ![image](./images/addLineSampleImage.png)
+
+### Sample_ButtonSwitchProgress.fmp12
+This is a sample of the mounted buttons and switches and progress bar with FileMaker.
+This file has been tested with ver13 and ver.17.
+
+ファイルメーカー で実装されたボタンやスイッチや進捗バーのサンプルです。
+FileMaker ver.13とver.17でテスト済みです。
