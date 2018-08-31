@@ -22,9 +22,12 @@ This file has been tested with ver13 and ver.17.
 FileMaker ver.13とver.17でテスト済みです。  
 ![image](./images/addLineSampleImage.png)
 
+
 ### Sample_ButtonSwitchProgress.fmp12
 This is a sample of the mounted buttons and switches and progress bar with FileMaker.
 This file has been tested with ver13 and ver.17.
 
 ファイルメーカー で実装されたボタンやスイッチや進捗バーのサンプルです。
 FileMaker ver.13とver.17でテスト済みです。
+![image](./images/buttonswitchprogress1.png)
+![image](./images/buttonswitchprogress2.png)
