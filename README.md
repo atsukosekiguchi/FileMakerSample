@@ -14,6 +14,10 @@ These files work with FileMaker ver. 12 or later.
 FileMaker Pro 12 or later
 
 ## Files
+Sample_addLine.fmp12  
+Sample_ButtonSwitchProgress.fmp12  
+Sample_CloudAgencyTool.fmp12  
+
 ### Sample_addLine.fmp12
 Add a line(record) like a spreadsheet.  
 This file has been tested with ver13 and ver.17.  
@@ -31,3 +35,6 @@ This file has been tested with ver13 and ver.17.
 FileMaker ver.13とver.17でテスト済みです。
 ![image](./images/buttonswitchprogress1.png)
 ![image](./images/buttonswitchprogress2.png)
+
+### Sample_CloudAgencyTool.fmp12
+It is an application to calculate fee of intermediary site.
