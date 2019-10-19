@@ -48,4 +48,4 @@ This sample uses the “Pause/Resume Script” step.
 
 This sample uses the “Pause/Resume Script” step.
 In this step, the behavior at the time of error is different between ver.16 or earlier and after 17 or later, so it is necessary to add error handling depending on the version of FileMaker you are using.
-![image](./images/Sample_ninja_status.png)
+![image](./images/ninja_statusImage.png)
