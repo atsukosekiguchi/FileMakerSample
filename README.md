@@ -45,7 +45,7 @@ This sample uses the “Pause/Resume Script” step.
 
 「スクリプトの一時停止」ステップを活用したサンプルになります。
 このステップはver.16以前と17以降ではエラー時の動きが違いますので、ご利用のFileMakerのバージョンによってはエラー処理を追加する必要があります。
+
 This sample uses the “Pause/Resume Script” step.
 In this step, the behavior at the time of error is different between ver.16 or earlier and after 17 or later, so it is necessary to add error handling depending on the version of FileMaker you are using.
-This sample uses the “Pause/Resume Script” step
-This sample uses the “Pause/Resume Script” step.
+![image](./images/Sample_ninja_status.png)
