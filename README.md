@@ -52,3 +52,4 @@ In this step, the behavior at the time of error is different between ver.16 or e
 
 ### timestampTest.fmp12
 This is a sample that converts the date and time data entered in the text field into a timestamp type.
+![image](./images/timestampTest.png)
