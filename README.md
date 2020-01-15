@@ -48,3 +48,7 @@ In this step, the behavior at the time of error is different between ver.16 or e
 このステップはver.16以前と17以降ではエラー時の動きが違いますので、ご利用のFileMakerのバージョンによってはエラー処理を追加する必要があります。
 
 ![image](./images/ninja_statusImage.png)
+
+
+### timestampTest.fmp12
+This is a sample that converts the date and time data entered in the text field into a timestamp type.
